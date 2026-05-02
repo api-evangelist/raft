@@ -5,18 +5,24 @@ Raft is a consensus algorithm for distributed systems designed to be understanda
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Raft, Consensus, Distributed Systems
+ - Consensus, Distributed Systems, Raft, Algorithms, Replication
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
+
+## Common
+
+- [Documentation](https://raft.github.io/)
+- [Paper](https://raft.github.io/raft.pdf)
+- [SourceCode](https://github.com/raft)
 
 ## Maintainers
 

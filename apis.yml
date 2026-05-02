@@ -7,11 +7,19 @@ tags:
   - Consensus
   - Distributed Systems
   - Raft
+  - Algorithms
+  - Replication
 created: '2025-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Documentation
+    url: https://raft.github.io/
+  - type: Paper
+    url: https://raft.github.io/raft.pdf
+  - type: SourceCode
+    url: https://github.com/raft
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
